@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "813271685106",
+    "project_id": "notifio-relayx",
+    "storage_bucket": "notifio-relayx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813271685106:android:42f0c54b122e8a8b83bd6b",
+        "android_client_info": {
+          "package_name": "abc.fivoza.notifio_relayx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813271685106-e6ggd9sffig3pppa5tif70fhkakoj8mf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfllWwuJ_Z3NvgFDgJJUVnPy7KXkvu1HY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813271685106-e6ggd9sffig3pppa5tif70fhkakoj8mf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
